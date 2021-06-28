@@ -1,0 +1,18 @@
+h1{
+ 
+    color: rgb(33, 45, 68);
+   
+}   
+    body{
+    background-image: url("https://wallpaperaccess.com/full/2272466.jpg");
+background-color: rgb(8, 8, 10);
+text-align: center;
+width: Xu;
+height: Yu;
+position: absolute;
+top: 50%;
+left: 50%;
+margin-left: -(X/2)u;
+margin-top: -(Y/2)u;
+}
+
